@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Not-So-Social`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Kundan Kumar Pathak`,
+      summary: `who is a tech-enthusiast & likes to work on different domains.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://not-so-social-kundan.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `pathak_kundan960`,
     },
   },
   plugins: [
